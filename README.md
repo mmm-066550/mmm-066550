@@ -44,7 +44,7 @@ Software & Tools:
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmm-066550&show_icons=true&locale=en&layout=compact" alt="mmm-066550"</p>
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mmm-066550&show_icons=true&locale=en" alt="mmm-066550" /></p> -->
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mmm-066550&" alt="mmm-066550" /></p> -->
-
+<hr/>
 <h3>⭐ Some of my projects:</h3>
 
 - [Spotify Nextjs Clone](https://github.com/mmm-066550/spotify-nextjs-clone) - **Recommended** ✨
