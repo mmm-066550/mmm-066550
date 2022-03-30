@@ -3,7 +3,7 @@
 
 I am a MERN stack developer and I mostly use ReactJs, NextJs, NodeJs and MongoDB in my side projects. You can check out some of my projects and if you got any questions you can reach out in the links below.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmm-066550" alt="mmm-066550" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmm-066550&theme=monokai" alt="mmm-066550" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Spotify clone](https://github.com/mmm-066550/spotify-nextjs-clone) -->
 - 🌱 I’m currently learning **Next.js**
