@@ -6,7 +6,7 @@ I am a MERN stack developer and I mostly use ReactJs, NextJs, NodeJs and MongoDB
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmm-066550&theme=monokai" alt="mmm-066550" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Spotify clone](https://github.com/mmm-066550/spotify-nextjs-clone) -->
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript and PostgreSQL**
 - 👨‍💻 All of my projects are available at [https://moustapha.me](https://moustapha.me)
 - 💬 Ask me about **NextJs, ReactJs, NodeJs and ExpressJs ,javaScript(ES6), HTML, CSS**
 - 📫 How to reach me **mmm066550@gmail.com**
