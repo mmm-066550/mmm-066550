@@ -7,7 +7,7 @@ I am a MERN stack developer and I mostly use ReactJs, NextJs, NodeJs and MongoDB
 
 <!-- - 🔭 I’m currently working on [Spotify clone](https://github.com/mmm-066550/spotify-nextjs-clone) -->
 - 🌱 I’m currently learning **TypeScript and PostgreSQL**
-- 👨‍💻 All of my projects are available at [https://moustapha.me](https://moustapha.me)
+- 👨‍💻 All of my projects are available at [https://mmm066550.me](https://moustapha.me)
 - 💬 Ask me about **NextJs, ReactJs, NodeJs and ExpressJs ,javaScript(ES6), HTML, CSS**
 - 📫 How to reach me **mmm066550@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=mmm-066550)
