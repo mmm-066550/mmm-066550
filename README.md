@@ -1,5 +1,5 @@
 <h1>Hello Devs 👋, I'm Moustapha.M</h1>
-<h3>A passionate junior fullstack (MERN) developer</h3>
+<h3>A passionate fullstack (MERN) developer</h3>
 
 I am a MERN stack developer and I mostly use ReactJs, NextJs, NodeJs and MongoDB in my side projects. You can check out some of my projects and if you got any questions you can reach out in the links below.
 
